@@ -1,2 +1,2 @@
 print("Hello from Git lab")
-print("Second version of the file")
+print("This code is in a feature branch")
