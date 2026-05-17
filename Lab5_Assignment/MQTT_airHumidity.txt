@@ -1,0 +1,30 @@
+System running...
+Connected to broker.
+Subscribed to telemetry: iot/instructor/#
+Subscribed to manual override: iot/edge08/manual/led
+Subscribed to actuator status: iot/edge08/status/led
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+[MQTT PUB] Topic: iot/edge08/control/led | Payload: {"command": "ON", "state": "WARNING", "source": "AUTO", "reason": "State automatically resolved to WARNING"}
+[STATUS] Actuator replied: {"status": "ON", "source": "ACTUATOR_PI", "led": "GPIO_18"}
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+
+[ANALYTICS] Window=[44.66, 61.6, 61.54, 61.47, 61.44] | Avg=58.14 | Trend=INCREASING | State=WARNING
+^C
+Stopping Lab5...
+Disconnected

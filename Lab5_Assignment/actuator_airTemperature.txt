@@ -1,0 +1,10 @@
+GPIO setup complete. LED is on BCM pin 18
+Actuator connected to MQTT Broker!
+Listening for commands on: iot/edge08/control/led
+
+[RECEIVED COMMAND] Topic: iot/edge08/control/led | Payload: {"command": "ON", "state": "WARNING", "source": "AUTO", "reason": "State automatically resolved to WARNING"}
+-> Action: LED turned ON
+[PUBLISHED STATUS] Topic: iot/edge08/status/led | Payload: {"status": "ON", "source": "ACTUATOR_PI", "led": "GPIO_18"}
+^C
+Stopping Actuator script...
+Hardware cleaned up and disconnected cleanly.
